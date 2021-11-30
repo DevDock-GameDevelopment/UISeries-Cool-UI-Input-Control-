@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a74e1e76fe096b64abf8b6eabb61acb6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MicroSquare
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3e15bb0a2cc6714b81779fc20c6a5b2, type: 3}
+  - {fileID: 12800000, guid: 37c297f41d0d594478aead037a0495af, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
